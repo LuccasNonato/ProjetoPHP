@@ -19,3 +19,11 @@ Tecnologias Utilizadas:
 
 PROJETO SEPARADO POR PASTAS CODIGO FONTE/BANCO DE DADOS
 PROJETO TESTADO EM XAMP NA RAIZ C:\xampp\htdocs
+
+
+
+tela de inclusão ![inclusao](https://github.com/user-attachments/assets/455b4e77-c58b-4f56-9c1a-dbe8878e2f07)
+
+
+
+tela de edição ![edicao](https://github.com/user-attachments/assets/2ebe2911-63f8-4e1c-afcb-766bc703cd29)
