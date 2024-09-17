@@ -15,3 +15,7 @@ Tecnologias Utilizadas:
     *MySQL: Banco de dados para armazenar informações dos produtos.
     *HTML/CSS: Estrutura e estilo da página web.
     *Bootstrap: Framework CSS para estilizar e criar um layout responsivo.
+
+
+PROJETO SEPARADO POR PASTAS CODIGO FONTE/BANCO DE DADOS
+PROJETO TESTADO EM XAMP NA RAIZ C:\xampp\htdocs
