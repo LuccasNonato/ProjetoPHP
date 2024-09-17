@@ -1,12 +1,12 @@
-Título: Cardápio de Produtos - Sistema CRUD
+Cardápio de Produtos - Sistema CRUD
 
-Descrição: Este é um projeto simples de um sistema de gerenciamento de cardápio de produtos, desenvolvido usando PHP, MySQL, HTML, CSS e Bootstrap. O sistema permite criar, ler, atualizar e excluir produtos, proporcionando uma interface básica para gerenciar um catálogo de itens.
+Descrição: Este é um projeto simples de um sistema de gerenciamento de cardápio de produtos, desenvolvido usando PHP, MySQL, HTML, CSS e Bootstrap. O sistema permite criar, ler, atualizar e excluir produtos (CRUD), com uma interface básica para gerenciar um catálogo de itens.
 
 Funcionalidades:
 
     *Adicionar Produto: Permite adicionar novos produtos ao banco de dados, incluindo nome, descrição e preço.
     *Listar Produtos: Exibe todos os produtos armazenados no banco de dados em uma tabela.
-    *Editar Produto: Permite a edição das informações de um produto existente.
+    *Editar Produto: Permite a edição das informações de um produto.
     *Excluir Produto: Remove produtos do banco de dados.
 
 Tecnologias Utilizadas:
